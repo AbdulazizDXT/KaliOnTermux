@@ -17,12 +17,12 @@
  - For KALI Linux :
     - ```git clone https://github.com/AbdulazizDXT/KaliOnTermux```
     - ```cd KaliOnTermux```
-    - ```chmod +x installation.sh```
-    - ```./install.sh```
+    - ```chmod +x installer.sh```
+    - ```./installer.sh```
 
-#### Or, directly run "Root Users {sudo su}" :
+#### Or, directly run :
 ```
-git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x install.sh ;./install.sh
+git clone https://github.com/AbdulazizDXT/KaliOnTermux ;cd KaliOnTermux ;chmod +x installer.sh ;./installer.sh
 
 ```
 ## [+] Usage
