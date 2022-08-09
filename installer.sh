@@ -1,4 +1,3 @@
-#!bin/bash
 apt install upgrade -y
 apt install php -y
 termux-setup-storage                                              pkg install wget
