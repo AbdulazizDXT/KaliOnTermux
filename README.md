@@ -29,6 +29,23 @@ git clone https://github.com/AbdulazizDXT/KaliOnTermux ;cd KaliOnTermux ;chmod +
 
  - The installer fixes a common problem with Termux and then downloads and installs automatically
 
+## [+] Some Command You have! :
+
+```
+$ nethunter                |  start Kali NetHunter command line interface
+$ nethunter kex passwd     |  configure the KeX password (only needed before 1st use)
+$ nethunter kex &          |  start Kali NetHunter Desktop Experience user sessions
+$ nethunter kex stop       |  stop Kali NetHunter Desktop Experience
+$ nethunter <command>      |  run in NetHunter environment
+$ nethunter -r             |  start Kali NetHunter cli as root
+$ nethunter -r kex passwd  |  configure the KeX password for root
+$ nethunter -r kex &       |  start Kali NetHunter Desktop Experience as root
+$ nethunter -r kex stop    |  stop Kali NetHunter Desktop Experience root sessions
+$ nethunter -r kex kill    |  Kill all KeX sessions
+$ nethunter -r <command>   |  run <command> in NetHunter environment as root
+```
+ * You can use alternative "nh" abbreviation to write "nethunter"
+
 ## [√] Features:
 
  - Easy to use
